@@ -1,0 +1,10 @@
+.nav {
+  position: sticky;
+  left: 0;
+}
+
+/* @media (min-width: 200px) and (max-width: 950px) {
+  html {
+    width: 100vw;
+  }
+} */
